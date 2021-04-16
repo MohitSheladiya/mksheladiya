@@ -1,0 +1,18 @@
+/*
+ * Name     : Mohit Kishorbhai Sheladiya 
+ * Student #: 117979203
+ * Date     : 16th April, 2021
+*/
+
+/**
+ * Styles for the add-observation.html page 
+ */
+.required {
+    color: Red;
+}
+#description, #pName, #pEmail {
+    width: 65%;
+}
+#note, #pLicense {
+    width: 68%;
+}
